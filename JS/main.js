@@ -48,7 +48,7 @@ ScrollReveal().reveal('.home-img , .services-container ,.portfolio-box ,.contact
 
 
 const typed = new Typed('.Multiple-task',{
-    strings : ['Student Of Software Eng','Front-end Developer'],
+    strings : ['Software Engineer','Front-end Developer'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
